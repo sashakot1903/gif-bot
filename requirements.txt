@@ -1,0 +1,4 @@
+aiogram>=3.0.0
+aiohttp>=3.8.5
+duckduckgo-search>=3.0.0
+flask>=2.3.0
